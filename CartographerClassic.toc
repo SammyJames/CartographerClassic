@@ -1,0 +1,15 @@
+## Interface: 11305
+## Notes: Addon to manipulate the map
+## Title: Cartographer (Classic)
+## Author: Sammy James
+## SavedVariables: CartographerClassicDB
+## Version: 0.1.0
+
+# libs
+libs/libs.xml
+# locales
+locale/locale.xml
+# core
+main.lua
+# all modules
+modules/modules.xml

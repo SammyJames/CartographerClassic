@@ -1,0 +1,10 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+    <Include file="modules/data_provider/module.xml"/>
+    <Include file="modules/battle_grounds/module.xml"/>
+    <Include file="modules/fog_light/module.xml"/>
+    <Include file="modules/guild_positions/module.xml"/>
+    <Include file="modules/look/module.xml"/>
+    <Include file="modules/zone_info/module.xml"/>
+    <Include file="modules/dungeon_maps/module.xml"/>
+</Ui>

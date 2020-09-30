@@ -1,0 +1,12 @@
+tag 3ef8dcf86aca343333b954a07cbd941a1941cf02 WoW-1.13.4-release1
+Author:	Odica Jaedenar <odica.jaedenar@gmail.com>
+Date:	Fri Apr 3 17:07:51 2020 +0200
+
+Tagged as WoW-1.13.4-release1
+
+commit ef6d897c331f5fcc4d7f9370f6b92fbc7db34cca
+Author: Odica Jaedenar <odica.jaedenar@gmail.com>
+Date:   Fri Apr 3 17:07:18 2020 +0200
+
+    (dummy commit for release build)
+
